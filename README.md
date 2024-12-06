@@ -1,8 +1,26 @@
-# React + Vite
+## Tradutor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicativo de ferramenta de tradução simples e responsiva semelhante ao Google Tradutor
 
-Currently, two official plugins are available:
+##  🖥 Imagem do projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![app_tradutor](https://github.com/user-attachments/assets/867ea738-cff2-4588-bcce-efa5f5f62b9e)
+
+## 🛠️ Construído com
+
+* React + Vite
+* Tailwind
+* HTML
+* CSS
+* JavaScript
+
+* [MyMemory Translate API](https://mymemory.translated.net/) - API grátis utilizada no projeto.
+* [Documentação](https://mymemory.translated.net/doc/spec.php) - Detalhes e documentação API.
+
+## 📌 Versão
+
+1.0.0
+
+## ✒️ Autor
+
+* **Vinícius Silva**
